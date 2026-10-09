@@ -53,26 +53,26 @@
   },
   "results": {
     "title": [
-      "Des chantiers",
-      "qui parlent"
+      "Tout sous",
+      "un même toit"
     ],
-    "lead": "Ce que nous avons construit, rénové et accompagné à Abidjan."
+    "lead": "Rénovation, location, vente : un seul interlocuteur, du premier coup de pinceau à la remise des clés."
   },
   "figures": [
     {
-      "value": 120,
-      "suffix": "+",
-      "label": "chantiers de rénovation<br>livrés"
+      "value": 3,
+      "suffix": "",
+      "label": "métiers : rénovation,<br>location et vente"
     },
     {
-      "value": 85,
-      "suffix": "+",
-      "label": "biens loués<br>ou vendus"
+      "value": 7,
+      "suffix": "",
+      "label": "spécialités<br>de finition"
     },
     {
-      "value": 98,
-      "suffix": " %",
-      "label": "de clients<br>satisfaits"
+      "value": 4,
+      "suffix": "",
+      "label": "types de biens<br>à louer ou vendre"
     }
   ],
   "contact": {

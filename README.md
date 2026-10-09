@@ -3,9 +3,8 @@
 Rénovation, location et vente de biens immobiliers à Abidjan.
 Site une page en 3D : le logo True Immobilier, en verre, s'éclate puis se recompose au scroll.
 
-**À remplacer avant la mise en ligne :**
+**À remplacer :**
 - l'e-mail provisoire `contact@true-immobilier.ci` dans `index.html` (attribut `data-email` du formulaire et lien `mailto:`) ;
-- les trois chiffres du chapitre Résultats (`data-count="120"`, `"85"`, `"98"` dans `index.html`), qui sont des exemples.
 
 Ensuite, lancez `python3 build_monofichier.py` pour régénérer `version-monofichier.html`.
 
