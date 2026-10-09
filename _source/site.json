@@ -1,0 +1,93 @@
+{
+  "brand": "True Immobilier",
+  "title": "True Immobilier — Rénovation, location et vente à Abidjan",
+  "meta_description": "True Immobilier rénove, loue et vend des biens immobiliers à Abidjan. Spécialistes de la haute finition : marbre, granite, peinture décorative premium.",
+  "email": "contact@true-immobilier.ci",
+  "lang": "fr",
+  "shape": "_source/true-shape.svg",
+  "mark": "_source/true-mark.svg",
+  "palette": [
+    "#c8874f",
+    "#8b4a2b",
+    "#d9a066",
+    "#a0522d",
+    "#6b3f2a"
+  ],
+  "hero": {
+    "title": [
+      "Des espaces",
+      "d'exception"
+    ],
+    "lead": "Rénovation haut de gamme, location et vente de biens immobiliers à Abidjan. Pour les particuliers et les entreprises qui exigent une finition irréprochable."
+  },
+  "about": {
+    "title": [
+      "Notre signature,",
+      "la haute finition"
+    ],
+    "text": "Nous transformons vos intérieurs en espaces d'exception, du gros œuvre aux dernières finitions. Marbre, granite et peinture décorative sont posés par des artisans spécialisés. Et quand le bien est prêt, nous vous aidons à le louer ou à le vendre."
+  },
+  "benefits": {
+    "title": [
+      "Rénovation,",
+      "location, vente"
+    ],
+    "items": [
+      {
+        "icon": "wrench",
+        "text": "Rénovation complète : gros œuvre, second œuvre, finition et électricité bâtiment."
+      },
+      {
+        "icon": "star",
+        "text": "Finitions premium : marbre, granite, escaliers, plans de travail, crépi et faïence."
+      },
+      {
+        "icon": "people",
+        "text": "Location : villas, appartements et bureaux de qualité, bien situés à Abidjan."
+      },
+      {
+        "icon": "chart",
+        "text": "Vente : villas duplex, villas basses, terrains et appartements mis en valeur."
+      }
+    ]
+  },
+  "results": {
+    "title": [
+      "Des chantiers",
+      "qui parlent"
+    ],
+    "lead": "Ce que nous avons construit, rénové et accompagné à Abidjan."
+  },
+  "figures": [
+    {
+      "value": 120,
+      "suffix": "+",
+      "label": "chantiers de rénovation<br>livrés"
+    },
+    {
+      "value": 85,
+      "suffix": "+",
+      "label": "biens loués<br>ou vendus"
+    },
+    {
+      "value": 98,
+      "suffix": " %",
+      "label": "de clients<br>satisfaits"
+    }
+  ],
+  "contact": {
+    "title": [
+      "Parlons de",
+      "votre projet."
+    ],
+    "lead": "Une rénovation, un bien à louer ou à vendre ?<br>Écrivez-nous ou appelez le +225 05 75 065 448."
+  },
+  "form": {
+    "company": "Type de projet",
+    "company_placeholder": "Rénovation, location, vente…",
+    "email_placeholder": "vous@exemple.com"
+  },
+  "footer": {
+    "spec": "Abidjan · Côte d'Ivoire · +225 05 75 065 448"
+  }
+}
